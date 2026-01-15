@@ -1,0 +1,20 @@
+{
+  "name": "ark",
+  "order": "Windrunner",
+  "max_hp": 120,
+  "current_hp": 93,
+  "max_stormlight": 50,
+  "current_stormlight": 3,
+  "surges": [
+    "Adhesion",
+    "Gravitation"
+  ],
+  "spheres": 8,
+  "inventory": [
+    "Basic Spear"
+  ],
+  "damage_bonus": 0,
+  "level": 1,
+  "xp": 25,
+  "xp_to_next_level": 100
+}
