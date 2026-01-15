@@ -1,0 +1,14 @@
+{
+  "Parshendi Warrior": {
+    "hp": 40,
+    "damage": 8,
+    "xp": 20,
+    "loot_spheres": 2
+  },
+  "Parshendi Archer": {
+    "hp": 30,
+    "damage": 12,
+    "xp": 25,
+    "loot_spheres": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Windrunner": {
+    "description": "Protectors who fly and stick things together. Focus: Combat & Mobility.",
+    "surges": ["Adhesion", "Gravitation"],
+    "base_hp": 120,
+    "base_stormlight": 50
+  },
+  "Lightweaver": {
+    "description": "Spies and artists who create illusions. Focus: Stealth & versatility.",
+    "surges": ["Illumination", "Transformation"],
+    "base_hp": 100,
+    "base_stormlight": 70
+  }
+}
