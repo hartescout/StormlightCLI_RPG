@@ -9,7 +9,7 @@ def talk_to_spren(player):
     spren_name = "Syl" if player.order == "Windrunner" else "Pattern"
     spren_type = "Honorspren" if player.order == "Windrunner" else "Cryptic"
     
-    console.print(f"\n[bold cyan]--- Communing with {spren_name} ---"[/bold cyan])
+    console.print(f"\n[bold cyan]--- Communing with {spren_name} ---[/bold cyan]")
     console.print(f"[italic]Your {spren_type} manifests near you.[/italic]")
     
     # Dialogue options based on Level (Ideals)
