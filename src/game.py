@@ -13,6 +13,9 @@ def load_orders():
     except FileNotFoundError:
         console.print("[bold red]Error: src/data/orders.json not found![/bold red]")
         return {}
+    except json.JSONDecodeError:
+        console.print("[bold red]Error: src/data/orders.json is not valid JSON![/bold red]")
+        return {}
 
 def create_character():
     console.print("\n[bold]--- Character Creation ---[/bold]")

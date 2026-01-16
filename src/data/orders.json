@@ -10,5 +10,23 @@
     "surges": ["Illumination", "Transformation"],
     "base_hp": 100,
     "base_stormlight": 70
+  },
+  "Skybreaker": {
+    "description": "Law-bringers who command justice through Division. Focus: Damage & Justice.",
+    "surges": ["Gravitation", "Division"],
+    "base_hp": 110,
+    "base_stormlight": 60
+  },
+  "Edgedancer": {
+    "description": "Dancers who glide and heal. Focus: Support & Evasion.",
+    "surges": ["Abrasion", "Progression"],
+    "base_hp": 90,
+    "base_stormlight": 80
+  },
+  "Elsecaller": {
+    "description": "Scholars who Soulcast and teleport. Focus: Versatility & Intelligence.",
+    "surges": ["Transformation", "Transportation"],
+    "base_hp": 105,
+    "base_stormlight": 75
   }
 }

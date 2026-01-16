@@ -13,7 +13,7 @@ def encounter_highstorm(player):
     console.print("1. [green]Secure spheres and hide[/green] (Safe, gain Currency)")
     console.print("2. [red]Step into the storm[/red] (Danger, maximize Stormlight)")
     
-    choice = Prompt.ask("Choose action", choices=["1", "2"], default="1")
+    choice = Prompt.ask("Choose action", choices=["1", "2"])
     
     if choice == "1":
         console.print("\nYou huddle in the barracks, listening to the destruction outside...")

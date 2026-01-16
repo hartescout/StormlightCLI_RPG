@@ -1,14 +1,51 @@
 {
   "Parshendi Warrior": {
-    "hp": 40,
+    "hp": 60,
     "damage": 8,
     "xp": 20,
-    "loot_spheres": 2
+    "loot_spheres": 2,
+    "special_ability": null
   },
   "Parshendi Archer": {
-    "hp": 30,
+    "hp": 45,
     "damage": 12,
     "xp": 25,
-    "loot_spheres": 3
+    "loot_spheres": 3,
+    "special_ability": "piercing_shot"
+  },
+  "Parshendi Sharpshooter": {
+    "hp": 50,
+    "damage": 10,
+    "xp": 35,
+    "loot_spheres": 5,
+    "special_ability": "multi_shot"
+  },
+  "Parshendi Berserker": {
+    "hp": 70,
+    "damage": 15,
+    "xp": 40,
+    "loot_spheres": 4,
+    "special_ability": "rage"
+  },
+  "Parshendi Shardbearer": {
+    "hp": 120,
+    "damage": 12,
+    "xp": 80,
+    "loot_spheres": 15,
+    "special_ability": "shard_strike"
+  },
+  "Midnight Essence": {
+    "hp": 40,
+    "damage": 10,
+    "xp": 30,
+    "loot_spheres": 3,
+    "special_ability": "drain_light"
+  },
+  "Chasmfiend": {
+    "hp": 200,
+    "damage": 20,
+    "xp": 150,
+    "loot_spheres": 25,
+    "special_ability": "claw_swipe"
   }
 }
